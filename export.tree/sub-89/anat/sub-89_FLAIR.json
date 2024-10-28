@@ -1,0 +1,28 @@
+{
+  "AcquisitionMatrixPE": 256,
+  "ColString": null,
+  "Dimensions": [
+    256,
+    106,
+    256
+  ],
+  "FlipAngle": 90,
+  "InversionTime": 1.887,
+  "ManufacturersModelName": "DISCOVERY MR750",
+  "ParallelReductionFactorInPlane": 2,
+  "PercentPhaseFOV": 70,
+  "PixelBandwidth": 244.141,
+  "ReconMatrixPE": 256,
+  "SequenceVariant": "SK",
+  "SliceThickness": 2,
+  "SoftwareVersions": "23\\LX\\MR Software release:DV23.1_V02_1317.c",
+  "VoxelSizes": [
+    0.9375,
+    2.0001564,
+    0.9375
+  ],
+  "Modality": "MR",
+  "MagneticFieldStrength": 3,
+  "Hospital": "UCLH",
+  "exam_type": "imaging"
+}
